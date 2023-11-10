@@ -1,0 +1,23 @@
+.blog {
+    margin-top: 20px;
+  }
+  
+  .blog h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post {
+    margin-bottom: 20px;
+  }
+  
+  .blog-post h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
